@@ -1,1 +1,2 @@
 commit F on  master
+And a conflicting change added by features/two
