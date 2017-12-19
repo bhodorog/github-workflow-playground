@@ -1,2 +1,4 @@
 commit F on  master
 And a conflicting change added by features/two
+Start with main develop branch, develop
+This is implementing feature one
